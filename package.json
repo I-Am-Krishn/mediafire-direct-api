@@ -1,0 +1,21 @@
+{
+  "name": "mediafire-direct-api",
+  "version": "1.0.0",
+  "description": "High-Speed MediaFire Direct Link API on Cloudflare Workers",
+  "main": "src/worker.js",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "keywords": [
+    "mediafire",
+    "cloudflare-workers",
+    "api",
+    "serverless"
+  ],
+  "author": "Krishn Dhola",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

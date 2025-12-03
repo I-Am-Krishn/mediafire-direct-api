@@ -1,0 +1,7 @@
+name = "mediafire-api-v1"
+main = "src/worker.js"
+compatibility_date = "2025-12-03"
+type = "javascript"
+# Optional: add your account id and route when ready
+# account_id = "<YOUR_ACCOUNT_ID>"
+# route = "yourdomain.com/*"
